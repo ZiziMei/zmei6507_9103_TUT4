@@ -14,7 +14,8 @@
 ![An image of Sample 2](readmeImages/9103Sample2.png)
 ![An image of Sample 3](readmeImages/9103Sample3.png)
 
-[Link Generating Flow Fields with Perlin Noise](https://vharivinay.xyz/generative/flowfiled/)
 [Link Coding](https://editor.p5js.org/codingtrain/sketches/vDcIAbfg7)
 
 **Generating Flow Fields with Perlin Noise as coding technique that helped me realize my main design concept, which is to suggest and visualize an unsettling emotional state through the movement and direction of twisted lines to simulate the nature of The Scream. (Like the distorted clouds and lakes in the background of The Scream.) An example of the coding technique is shown in the picture. I will adjust the Noise Scale and Noise Strength to explore the best effect that meets my expectations and adjust the color of the lines according to the original painting of The Scream.**
+[Link Generating Flow Fields with Perlin Noise](https://vharivinay.xyz/generative/flowfiled/)
+
